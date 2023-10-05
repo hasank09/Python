@@ -59,6 +59,6 @@ final_results = {
 
 df = pd.DataFrame.from_dict(data=final_results)
 
-df.to_csv('result_swiz.csv')
+df.to_csv('search_result.csv')
 
 final_results.clear()
