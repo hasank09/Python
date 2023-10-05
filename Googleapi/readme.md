@@ -18,12 +18,12 @@ it saves from copy and paste
 
 for you query/parameter
 
-![image-2.png](..%2Fimage-2.png)
+![image-2.png](image-2.png)
 
 result will be stored in csvfile "search_result.csv" <br>
 and programs also shows status of result
 
-![image.png](..%2Fimage.png)
+![image.png](Fimage.png)
 
 
 Limitation: Google only allow 10 pages of result (99 result), after that it requires subscription plan 
